@@ -127,7 +127,7 @@ public class AddStudentController implements Initializable {
         nameFld.setText(name);
         birthFld.setValue(toLocalDate);
         adressFld.setText(adress);
-        emailFld.setText(name);
+        emailFld.setText(email);
 
     }
 
